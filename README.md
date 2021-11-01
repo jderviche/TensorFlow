@@ -56,4 +56,5 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
-# Teste de edicao 01-11-2021
+# Teste de edicao 1 01-11-2021
+# Teste de edicao 2 01-11-2021
